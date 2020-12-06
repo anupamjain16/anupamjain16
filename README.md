@@ -21,18 +21,14 @@ Hi, I'm Anupam Jain, a Full Stack Developer 🚀 from India,currently, I'm a Sof
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-**Talking about Personal Stuffs:**
+ 🔭 I’m currently working on Oracle, Cognos, JAVA.
+ 🌱 I’m currently learning ReactJs,  NodeJs.
+👯 I’m looking to collaborate on products.
+ 🤔 I’m looking for help with new projects.
+ 💬 Ask me about  anything, I am happy to help.
+ 📫 How to reach me: jainanupam16@gmail.com.
+ ⚡ Fun fact: Everywhere is Code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Oracle, Cognos, JAVA.
-- 🌱 I’m currently learning ReactJs,  NodeJs.
-- 👯 I’m looking to collaborate on products.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  anything, I am happy to help;
-- 📫 How to reach me: jainanupam16@gmail.com
-- ⚡ Fun fact: Everywhere is Code.
--->
 
 **Languages and Tools:**  
 
