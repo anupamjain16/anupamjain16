@@ -14,7 +14,7 @@
 <br />
 <img align="right" height="200" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-Hi, I'm Anupam Jain, a Full Stack Developer 🚀 from India,currently, I'm a Software Engineer at 🙍🏽‍♂️.[@Nucleus}(https://www.nucleussoftware.com/).
+Hi, I'm Anupam Jain, a Oracle PL SQL Developer 🚀 from India,currently, I'm a Software Engineer at 🙍🏽‍♂️.[@Nucleus}(https://www.nucleussoftware.com/).
 I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
 Beside's engineering, I love photography.
 
