@@ -14,7 +14,7 @@
 <br />
 <img align="right" height="200" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-Hi, I'm Anupam Jain, a Oracle PL SQL Developer 🚀 from India,currently, I'm a Software Engineer at 🙍🏽‍♂️.[@Nucleus}(https://www.nucleussoftware.com/).
+Hi, I'm Anupam Jain, a Java Developer 🚀 from India,currently, I'm a Software Engineer at 🙍🏽‍♂️ Orange Business.
 I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.
 Beside's engineering, I love photography.
 
@@ -22,12 +22,12 @@ Beside's engineering, I love photography.
 <br/>
 
 
- -🔭 I’m currently working on Oracle, Cognos, JAVA.
- -🌱 I’m currently learning ReactJs,  NodeJs.
+ -🔭 I’m currently working on JAVA , Spring , Rest API.
+ -🌱 I’m currently learning DevOPS.
  -👯 I’m looking to collaborate on products.
  -🤔 I’m looking for help with new projects.
  -💬 Ask me about  anything, I am happy to help.
- -📫 How to reach me: jainanupam16@gmail.com.
+ -📫 How to reach me: jainanupam166@gmail.com.
  -⚡ Fun fact: Everywhere is Code.
  
  
@@ -43,7 +43,3 @@ Beside's engineering, I love photography.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-![Anupam's github stats](https://github-readme-stats.vercel.app/api?username=anupamjain16&show_icons=true&hide_border=true)
