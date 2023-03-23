@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Anupam Jain</title>
+ 
 </head>
 <body>
   <header>
@@ -18,8 +18,6 @@
   </header>
   <main>
     <img align="right" height="200" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-less
-Copy code
 <p>
   Hi, I'm Anupam Jain, a Java Developer 🚀 from India, currently working as a Software Engineer at 🙍🏽‍♂️ Orange Business. I'm a creative problem-solving enthusiast and a product guy, with a constantly growing love for kick-ass products. Besides engineering, I love photography.
 </p>
